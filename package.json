@@ -1,0 +1,19 @@
+{
+  "name": "meituan-miniprogram",
+  "version": "1.0.0",
+  "description": "美团外卖微信小程序",
+  "main": "main.js",
+  "scripts": {
+    "dev": "uni -p",
+    "build": "uni build"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "2.0.2-4050720250324001",
+    "uni-simple-router": "^2.0.7",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@dcloudio/vue-cli-plugin-uni": "2.0.2-4050720250324001",
+    "webpack": "^5.76.0"
+  }
+}
