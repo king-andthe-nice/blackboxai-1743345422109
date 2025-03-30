@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/restaurants/index", 
+    "pages/menu/index",
+    "pages/cart/index",
+    "pages/order/confirm",
+    "pages/account/login"
+  ],
+  "window": {
+    "navigationBarTitleText": "美团外卖",
+    "navigationBarBackgroundColor": "#ffd161",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
