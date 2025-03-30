@@ -1,0 +1,28 @@
+{
+  "description": "美团外卖小程序",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "",
+  "projectname": "meituan-miniprogram",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.7.8"
+}
